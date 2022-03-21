@@ -1,4 +1,4 @@
-### Hi there 👋, Imaad Uddin 
+### Hi there 👋, my name is Imaad Uddin 
 #### Software Engineer 
 ![Software Engineer ](https://media-exp1.licdn.com/dms/image/C5616AQGP8JbkrFp6wA/profile-displaybackgroundimage-shrink_200_800/0/1646773372099?e=1652918400&v=beta&t=R83xn5q-a_j6l066iqQwzzL6A2fIozAG8flIv_FetV8)
 
