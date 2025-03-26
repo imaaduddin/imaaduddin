@@ -1,57 +1,40 @@
-Hi 👋 My name is Imaad
-======================
+# Hi, I'm Imaad 👋
 
-Software Engineer
------------------
-![Software Engineer ](https://media-exp1.licdn.com/dms/image/C5616AQGP8JbkrFp6wA/profile-displaybackgroundimage-shrink_200_800/0/1646773372099?e=1652918400&v=beta&t=R83xn5q-a_j6l066iqQwzzL6A2fIozAG8flIv_FetV8)
+I'm a software engineer based in **New York City** with 3 years of experience building modern, user-centric web applications.
 
-My name is Imaad and I'm a student at the University of Houston studying MIS & CS. I really enjoy frontend development and have been learning frameworks like React to broaden my skill set in this area. I have also picked up an interest in mobile development, iOS development in particular, and am learning it during my free time. I am also a content creator and make videos on TikTok, Instagram, and YouTube as well as write on Medium, Twitter, and LinkedIn! You can find me on all these platforms with this link: https://solo.to/imaaduddin.
+I have a deep interest in **front-end engineering and design**. I love crafting sleek, visually appealing user interfaces that don’t just look good—but work beautifully. In my free time, I dive into projects built with **React** and **Next.js**, constantly exploring the latest in UI/UX, design systems, and frontend tech.
 
-* 🌍  I'm based in Houston, Texas
-* ✉️  You can contact me at [imaaduddin27@gmail.com](mailto:imaaduddin27@gmail.com)
-* 🚀  I'm currently working on [Creating content & learning React](http://tiktok.com/@imaaduddinn)
-* 🧠  I'm learning React & Swift
-* 🤝  I'm open to collaborating on Any application using React & Swift
-* ⚡  Fun fact: love fashion, anime and photography
+I'm also passionate about the **transformative power of AI and machine learning**. Lately, I’ve been focused on projects that bridge the gap between software engineering and intelligent systems—learning, building, and experimenting with the possibilities of LLMs, deep learning, and real-world AI applications.
 
-<a href="https://www.twitter.com/imaaduddinn" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/imaaduddinn?logo=twitter&style=for-the-badge&color=ef4444&labelColor=000000"
-/></a>
-### Skills
+---
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-</p>
+## 🚀 Projects I'm Building
 
-### Socials
+- **Dinee** – An AI-powered restaurant app with personalized recommendations and real-time Resy integration.  
+  _Stack: Next.js, Node.js, PostgreSQL, GPT-4_
 
-<p align="left"> <a href="https://discord.com/users/Konoha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/imaaduddin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/imaaduuddin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/imaaduddin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@imaaduddinn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/imaaduddinn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/ImaadUddin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-### Badges
+- **Tintify** – A Chrome extension helping colorblind users enhance web color visibility with AI-powered real-time color descriptions.  
+  _Stack: Next.js, Tailwind CSS, OpenAI Vision_
 
-<b>My GitHub Stats</b>
+- **Pantry** – An AI-driven grocery shopping assistant that automates recurring orders, predicts user needs, and integrates with services like Instacart and Walmart.  
+  _Stack: Next.js, Node.js, PostgreSQL, GPT-4_
 
-<a href="http://www.github.com/imaaduddin"><img src="https://github-readme-stats.vercel.app/api?username=imaaduddin&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="imaaduddin's GitHub stats" /></a>
+- **Sona** – An AI-powered mental health companion for mood tracking, journaling, and coping strategies powered by GPT-4.  
+  _Stack: Next.js, Tailwind CSS, Supabase, GPT-4_
 
-<a href="http://www.github.com/imaaduddin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imaaduddin&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<a href="http://www.github.com/imaaduddin"><img src="https://activity-graph.herokuapp.com/graph?username=imaaduddin&bg_color=000000&color=ffffff&line=ef4444&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+## 🛠 Skills
 
-<a href="https://github.com/imaaduddin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaaduddin&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**Languages & Frameworks**  
+JavaScript, Python, React.js, Next.js, Tailwind CSS, PostgreSQL
 
-### Support Me
+---
 
-<a href="https://www.buymeacoffee.com/imaaduddin"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+## 💡 Interests
+
+iOS Development, UI Design, AI/ML, LLMs, Deep Learning, Neural Networks
+
+---
+
+Thanks for stopping by! Feel free to explore my repos or connect if you're working on something exciting.
